@@ -1,0 +1,23 @@
+[
+  {
+    "id": "453be26b-eb87-4df3-8fa8-668783d3c25a",
+    "name": "Silverado",
+    "releaseYear": 2020,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "1604b9be-f955-4051-b718-38063fbc64d6",
+    "name": "Charger",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "18178f19-ca24-4c47-9081-e54c87f2878a",
+    "name": "CTS",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]

@@ -1,0 +1,10 @@
+mocks: São cenários e servem para testar como sua aplicação vai funcionar 
+ou se comportar.
+Mocks são a evolução dos stubs, pois não substituem um único método, mas sim uma classe toda, mas somente implementa o método escolhido.
+Por exemplo, podemos substituir o método de busca do Mongoose pelo nosso próprio método e retornar nosso próprio valor, e ainda por cima implementar o spy nisso tudo.
+
+stubs: É usado para acessar coisas externas do nosso API. Stub, é utilizado para retornar(simular) output esperados de services externos.
+Em suma, um stub é um objeto com um comportamento fixo e previsível.
+
+spies: É utilizado para "espiar" um método. Ex. Ver se esse método foi chamado, com quais argumentos esse método foi chamado. Quantas vezes esse método foi chamado.
+Spy é uma denominação dada a um objeto que grava suas interações com outros objetos.

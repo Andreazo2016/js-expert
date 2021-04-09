@@ -1,0 +1,3 @@
+Memória javaScript
+tipos primitivos são passado como cópia
+tipos compostos: function,objects, arrays são passado como referência.
